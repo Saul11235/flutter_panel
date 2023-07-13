@@ -7,7 +7,7 @@ def build_config_panel(self):
 
     #-- New Panel ----
     panel=ttk.Frame(notebook)
-    notebook.add(panel, text=" Config  ")
+    notebook.add(panel, text=" config  ", underline=3,  )
     
 
 

@@ -7,7 +7,7 @@ def build_debug_panel(self):
 
     #-- New Panel ----
     panel=ttk.Frame(notebook)
-    notebook.add(panel, text="Debug  ")
+    notebook.add(panel, text=" debug  ",underline=1)
 
     button=tk.Button(panel,text="hola")
     button.pack()
