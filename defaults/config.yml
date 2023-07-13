@@ -1,0 +1,20 @@
+
+# config file flutter pannel
+# https://github.com/Saul11235/flutter_panel
+
+# external aplications
+editor        : "vim"
+file_explorer : "vifm"  
+
+# defaul main flutter aplication 
+main_file     : "main.dart"  
+
+# debug variables
+run_debug     : "chrome"
+
+# system commands
+$flutter      :  "flutter"
+$dart         :  "dart"          
+$very_good    :  "very_good"
+
+
