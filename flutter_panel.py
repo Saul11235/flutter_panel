@@ -2,8 +2,15 @@
 # writed by: Edwin Saul PM 
 # my site: www.edwinsaul.com 
 
-try:   from  gui_flutter_panel import window_panel 
-except:from .gui_flutter_panel import window_panel 
+try:   from  flutter_panel_gui import window_panel 
+except:from .flutter_panel_gui import window_panel 
+
+try:   from  flutter_panel_vars import panel_vars
+except:from .flutter_panel_vars import panel_vars
+
+try:   from  flutter_panel_actions import panel_actions
+except:from .flutter_panel_actions import panel_actions
+
 
 print("""\n
    +--------------------------------------------+ 

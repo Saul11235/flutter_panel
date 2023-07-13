@@ -10,11 +10,11 @@ file_explorer : "vifm"
 main_file     : "main.dart"  
 
 # debug variables
-run_debug     : "chrome"
+run_debug     : "Chrome"
 
 # system commands
-$flutter      :  "flutter"
-$dart         :  "dart"          
-$very_good    :  "very_good"
+flutter       :  "flutter"
+dart          :  "dart"          
+very_good     :  "very_good"
 
 

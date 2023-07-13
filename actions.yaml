@@ -1,0 +1,13 @@
+# actions for flutter use
+#
+
+commands:
+
+  - command: "$flutter run $run_debug"
+    comment: "flutter: run debug app"
+
+  - command: "$flutter run $run_debug"
+    comment: "flutter: create new program"
+
+
+
